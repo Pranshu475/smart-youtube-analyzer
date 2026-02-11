@@ -21,3 +21,28 @@ A Machine Learning powered web application that analyzes YouTube comments in rea
 ```bash
 git clone [https://github.com/Pranshu475/smart-youtube-analyzer.git](https://github.com/Pranshu475/smart-youtube-analyzer.git)
 cd smart-youtube-analyzer
+
+2. Backend Setup (Python)
+Bash
+cd ai_engine
+# Install dependencies
+pip install flask flask-cors google-api-python-client textblob scikit-learn transformers
+# Start the Server
+python app.py
+
+3. Frontend Setup (React)
+Open a new terminal:
+
+Bash
+cd client
+# Install dependencies
+npm install
+# Start the React App
+npm start
+
+📜 Project Structure
+/ai_engine: Python Flask Server & ML Models
+
+/client: React Frontend Application
+
+
