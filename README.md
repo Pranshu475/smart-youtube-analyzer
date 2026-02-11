@@ -2,9 +2,6 @@
 
 A Machine Learning powered web application that analyzes YouTube comments in real-time. It uses **Natural Language Processing (NLP)** to determine sentiment, classifies comments into categories (Spam, Question, Appreciation), and generates an AI-powered summary of viewer feedback.
 
-![Project Screenshot](https://via.placeholder.com/800x400?text=Upload+Your+Screenshot+Here)
-*(Add your dashboard screenshot here)*
-
 ## 🚀 Features
 - **📊 Sentiment Analysis:** Classifies comments as Positive, Negative, or Neutral.
 - **🧠 Machine Learning Classifier:** Automatically tags comments as "Question", "Appreciation", or "Spam".
