@@ -1,7 +1,7 @@
 from googleapiclient.discovery import build
 
 # 1. PASTE YOUR API KEY HERE
-API_KEY = "AIzaSyAXXdO6r0npPFnKDvsZjly67sCIfTTzGhg"
+API_KEY = ""
 
 def get_video_comments(video_id):
     # Connect to YouTube API
