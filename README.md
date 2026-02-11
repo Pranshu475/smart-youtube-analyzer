@@ -23,7 +23,6 @@ git clone [https://github.com/Pranshu475/smart-youtube-analyzer.git](https://git
 cd smart-youtube-analyzer
 
 2. Backend Setup (Python)
-Bash
 cd ai_engine
 # Install dependencies
 pip install flask flask-cors google-api-python-client textblob scikit-learn transformers
@@ -32,8 +31,6 @@ python app.py
 
 3. Frontend Setup (React)
 Open a new terminal:
-
-Bash
 cd client
 # Install dependencies
 npm install
@@ -42,7 +39,6 @@ npm start
 
 📜 Project Structure
 /ai_engine: Python Flask Server & ML Models
-
 /client: React Frontend Application
 
 
