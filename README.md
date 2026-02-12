@@ -33,7 +33,7 @@ Open a new terminal:
 - npm start
 
 📜 Project Structure
-/ai_engine: Python Flask Server & ML Models
-/client: React Frontend Application
+- /ai_engine: Python Flask Server & ML Models
+- /client: React Frontend Application
 
 
