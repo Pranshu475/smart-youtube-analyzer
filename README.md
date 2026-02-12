@@ -17,7 +17,7 @@ A Machine Learning powered web application that analyzes YouTube comments in rea
 
 ## ⚙️ Installation Guide
 
-1. Clone the Reposotory
+### 1. Clone the Reposotory
 git clone [https://github.com/Pranshu475/smart-youtube-analyzer.git](https://github.com/Pranshu475/smart-youtube-analyzer.git)
 cd smart-youtube-analyzer
 
