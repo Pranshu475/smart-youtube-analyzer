@@ -17,18 +17,18 @@ A Machine Learning powered web application that analyzes YouTube comments in rea
 
 ## ⚙️ Installation Guide
 
-1. Clone the Reposotory
+### 1. Clone the Reposotory
 git clone [https://github.com/Pranshu475/smart-youtube-analyzer.git](https://github.com/Pranshu475/smart-youtube-analyzer.git)
 cd smart-youtube-analyzer
 
-2. Backend Setup (Python)
+### 2. Backend Setup (Python)
 cd ai_engine
 #Install dependencies
 pip install flask flask-cors google-api-python-client textblob scikit-learn transformers
 #Start the Server
 python app.py
 
-3. Frontend Setup (React)
+### 3. Frontend Setup (React)
 Open a new terminal:
 cd client
 #Install dependencies
